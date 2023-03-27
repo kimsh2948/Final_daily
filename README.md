@@ -1,2 +1,2 @@
 # Final_daily
-기말 프로젝트
+.NET 프레임 워크를 사용해서 개발한 ERP 
